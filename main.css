@@ -1,0 +1,42 @@
+/*
+.rect{
+    width:150px;
+    height:150px;
+    border-radius:50%;
+    text-align: center;
+    line-height: 150px;
+    font-size: 100px;
+    font-weight: 800;
+}
+.red{
+    background: red;
+    color: #fff;
+}
+.gold{
+    background: gold;
+}
+*/
+
+.inner{
+   background: white;
+}
+.box{
+  width:60px;
+  height:60px;
+border-radius:50%; 
+text-align: center;
+ font-size: 40px;
+    font-weight: 600;
+}
+.bg1{
+ background: orangered; 
+}
+.bg2{
+ background: limegreen; 
+}
+.bg3{
+ background: dodgerblue; 
+}
+.bg4{
+ background: gold; 
+}
