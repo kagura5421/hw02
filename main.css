@@ -1,4 +1,4 @@
-/*
+
 .rect{
     width:150px;
     height:150px;
@@ -8,35 +8,28 @@
     font-size: 100px;
     font-weight: 800;
 }
-.red{
+.bg2{
     background: red;
-    color: #fff;
-}
-.gold{
-    background: gold;
-}
-*/
-
-.inner{
-   background: white;
-}
-.box{
-  width:60px;
-  height:60px;
-border-radius:50%; 
-text-align: center;
- font-size: 40px;
-    font-weight: 600;
+    color: white;
 }
 .bg1{
- background: orangered; 
+    background: gold;
 }
-.bg2{
- background: limegreen; 
+
+
+.inner{
+   background: rgb(250, 233, 190);
 }
-.bg3{
- background: dodgerblue; 
+.box{
+    width:45px;
+    height:45px;
+    border-radius:50%; 
+    text-align: center;
+    font-size: 30px;
+    font-weight:700;
+ 
+   
 }
-.bg4{
- background: gold; 
+.redfont{
+ color: #bf1111;
 }
